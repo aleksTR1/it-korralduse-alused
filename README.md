@@ -11,9 +11,4 @@ IT korralduse alused annab ülevaate IT teenustest, protsessidest, infrastruktuu
 Kursus aitab mõista, kuidas IT organisatsioon töötab.
 
 ## Teemad
-Teema 1: ITIL
-Teema 2: Protsessid
-Teema 3: Taristu
-Teema 4: Lean
-Teema 5: Projekt
-Kokkuvõte
+
